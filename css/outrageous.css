@@ -13,7 +13,7 @@ h1 span{background:url(../images/outrageous.gif) center center no-repeat;height:
 
 h2 {margin:0 0 20px 0}
 
-div#container {border:0px solid #000;margin:auto;padding:0 10px;width:990px}
+div#container {border:0px solid #000;margin:auto;padding:0 10px;max-width:990px}
 div#footer p{color:#555;font-size:11px;padding-top:5px}
 
 #container div {margin:50px auto;text-align:center}
